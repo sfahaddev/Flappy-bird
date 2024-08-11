@@ -6,6 +6,12 @@
 
 MR Bird is a Unity-based game inspired by the classic Flappy Bird. Developed using Unity engine and C# programming language, this project aims to deliver an engaging and smooth gameplay experience.
 
+
+
+https://github.com/user-attachments/assets/b124c7a8-6376-4cf0-8fe1-970b7672b337
+
+
+
 ## Features ✨
 
 - **Core Gameplay**: Developed a Flappy Bird game using Unity and C#, resulting in increased user engagement.
